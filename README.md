@@ -2,9 +2,9 @@
 My first repository
 
 ### Favorite Horror Movies/Series
-1. Lights Out
 **Train to Busan**
 *Mama*
+1. Lights Out
 - Tarot
 > Conjuring: The Last Rites
 
